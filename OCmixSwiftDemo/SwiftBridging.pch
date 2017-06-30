@@ -1,0 +1,15 @@
+//
+//  SwiftBridging.pch
+//  OCmixSwiftDemo
+//
+//  Created by 8891 on 19/05/2017.
+//  Copyright © 2017 8891. All rights reserved.
+//
+
+#ifndef SwiftBridging_pch
+#define SwiftBridging_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* SwiftBridging_pch */

@@ -1,0 +1,6 @@
+framework module Pods_OCmixSwiftDemoTests {
+  umbrella header "Pods-OCmixSwiftDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
